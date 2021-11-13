@@ -1,0 +1,20 @@
+Data Agen
+No | Nama Agen | Kelompok | Nominal Kocokan| Periode Arisan | Keterangan
+
+Buku Belanja
+Tanggal | Nama Barang | Qty | Harga Beli | Harga Jual | Sup | - | -
+
+
+Jadwal Kocokan Agen 
+No | Nama Agen | Kelompok | Nominal | Tanggal |Keterangan
+
+Data Kelompok
+
+Nama Agen	:
+Alamat		:
+Telp		:
+Kelompok	:
+Nominal Kocokan	:
+Periode Arisan	:
+
+No | Nama Barang | Kode | Harga/Hari | Tgl Terima Koc | Keterangan
