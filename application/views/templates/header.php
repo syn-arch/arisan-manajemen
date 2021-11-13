@@ -51,7 +51,7 @@ if (!$petugas) {
         <!-- mini logo for sidebar mini 50x50 pixels -->
         <span class="logo-mini"><i class="fa fa-shopping-cart"></i></span>
         <!-- logo for regular state and mobile devices -->
-        <span class="logo-lg"><b><i class="fa fa-shopping-cart"></i> E - POS</b></span>
+        <span class="logo-lg"><b><i class="fa fa-shopping-cart"></i> Arisan</b></span>
       </a>
 
       <!-- Header Navbar -->
